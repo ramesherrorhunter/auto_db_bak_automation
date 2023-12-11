@@ -1,0 +1,8 @@
+boto3
+mysql-connector-python
+pymysql
+subprocess
+six
+mysqldump
+os
+logging
